@@ -22,7 +22,7 @@
 - **TO LAUNCH WELTMEISTER:** Navigate browser to ```localhost:8080/wm```
 
 ## Follow
-- [First announcement](http://impactjs.com)  for public use
+- [First announcement](http://impactjs.com/forums/code/f-l-a-r-e-development-suite-for-impact/page/1)  for public use. Includes node weltmeister only.
 
 ## Contribute
 Contributions are always welcome! Discovered a bug? Have an idea? File a [new issue](https://github.com/TheMaverickProgrammer/flare-impact/issues) on github.
