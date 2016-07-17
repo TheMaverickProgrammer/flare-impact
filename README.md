@@ -15,6 +15,7 @@
 - Close all ports running on ```8080```
 - Clone/fork/download this git project
 - ```npm install --save``` to install project dependencies
+- drop your purchased ```/impact``` source folder to ```flare-impact/lib```
 - ```npm start``` to launch server
 - **TO RUN GAME:** Navigate browser to ```localhost:8080/```
 - You should see the logo with flares swirling upward
