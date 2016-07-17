@@ -1,6 +1,6 @@
 <img src="https://dl.dropbox.com/s/2r73s0t8rpeeisb/logo-lg.png" align="right" />
 # README v0.0.1
-> A nopache (apache-free) pure nodejs server solution for [Impactjs](http://impactjs.com) complete with weltmeister support
+> A nopache (apache-free) pure nodejs server solution for [Impactjs](http://impactjs.com) complete with weltmeister support. Part of the F L A R E development suite.
 
 # Features
 - Easy installation
@@ -17,18 +17,19 @@
 - ```npm install --save``` to install project dependencies
 - ```npm start``` to launch server
 - **TO RUN GAME:** Navigate browser to ```localhost:8080/```
+- You should see the logo with flares swirling upward
 - **TO LAUNCH WELTMEISTER:** Navigate browser to ```localhost:8080/wm```
 
 ## Follow
 - [First announcement](http://impactjs.com)  for public use
 
 ## Contribute
-Contributions are always welcome!
+Contributions are always welcome! Discovered a bug? Have an idea? File a [new issue](https://github.com/TheMaverickProgrammer/flare-impact/issues) on github.
 
 ## Donations
 This project and the rest of the F L A R E development suite is developed by one person to expand on the Impactjs engine to bring an advanced game development pipeline to the Impact community.
 
-If you found this project useful, kindly donate to my bitcoin address: ```16Nvuh4zjD4kmdnLtR12jkK3NkYReJJB1G``` 
+If you found this project useful, kindly donate to my bitcoin address: ```16Nvuh4zjD4kmdnLtR12jkK3NkYReJJB1G```
 
 ## License
 
