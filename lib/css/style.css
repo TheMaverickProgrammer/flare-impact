@@ -1,0 +1,28 @@
+html,body {
+
+   background-color: #111;
+   color: #fff;
+   font-family: helvetica, arial, sans-serif;
+   margin: 0;
+   padding: 0;
+   font-size: 12pt;
+}
+
+/*
+Canvas is confifugred to benefit the pixel art
+Anti-aliasing made the pixel art blurry as the canvas scaled
+to fit the device
+*/
+#canvas {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: auto;
+    image-rendering: optimizeSpeed;              /* Older versions of FF */
+    image-rendering: -moz-crisp-edges;           /* FF 6.0+ */
+    image-rendering: -webkit-optimize-contrast;  /* Webkit (non standard naming) */
+    image-rendering: -o-crisp-edges;             /* OS X & Windows Opera (12.02+) */
+    image-rendering: crisp-edges;                /* Possible future browsers. */
+    -ms-interpolation-mode: nearest-neighbor;    /* IE (non standard naming) */
+    image-rendering: pixelated;                     /* Chrome 41 */
+}

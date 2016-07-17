@@ -1,0 +1,4 @@
+.git
+node_modules
+lib/impact
+npm-debug.log
