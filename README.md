@@ -5,7 +5,7 @@
 
 # Features
 - **NEW** BoomSheets sprite mapping and management tool
-<img src="https://www.dropbox.com/s/zo1pbox3sjfhvq2/info.png" align="right" />\
+<img src="https://www.dropbox.com/s/zo1pbox3sjfhvq2/info.png?dl=0" align="right" />
 - Easy installation
 - 100% nodejs
 - Scripts watch for any changes in project and relaunch server immediately
