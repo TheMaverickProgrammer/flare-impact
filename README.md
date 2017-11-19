@@ -1,6 +1,7 @@
 <img src="https://dl.dropbox.com/s/2r73s0t8rpeeisb/logo-lg.png" align="right" />
+_updated 11/18/2017_
 
-# README v0.0.1
+# README v0.0.2 
 > A nopache (apache-free) pure nodejs server solution for [Impactjs](http://impactjs.com) complete with weltmeister support. Part of the F L A R E development suite.
 
 <img src="https://photos-2.dropbox.com/t/2/AAB3DCZ5DZJ8Bx16vYsELjGLWJ0tSB_6n1N8tt7-sg1_pg/12/1333628/png/32x32/3/1511074800/0/2/info.png/EOWhkAEY3-P74AQgBygH/GzdQwQi4jq_45JPssmwDFrUxgji5DJx6nBhGCcbXtEw?dl=0&size=2048x1536&size_mode=3" align="right" />
