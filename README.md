@@ -3,9 +3,10 @@
 # README v0.0.1
 > A nopache (apache-free) pure nodejs server solution for [Impactjs](http://impactjs.com) complete with weltmeister support. Part of the F L A R E development suite.
 
+<img src="https://photos-2.dropbox.com/t/2/AAB3DCZ5DZJ8Bx16vYsELjGLWJ0tSB_6n1N8tt7-sg1_pg/12/1333628/png/32x32/3/1511074800/0/2/info.png/EOWhkAEY3-P74AQgBygH/GzdQwQi4jq_45JPssmwDFrUxgji5DJx6nBhGCcbXtEw?dl=0&size=2048x1536&size_mode=3" align="right" />
+
 # Features
 - **NEW** BoomSheets sprite mapping and management tool
-<img src="https://www.dropbox.com/s/zo1pbox3sjfhvq2/info.png?dl=0" align="right" />
 - Easy installation
 - 100% nodejs
 - Scripts watch for any changes in project and relaunch server immediately
