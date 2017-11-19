@@ -1,8 +1,11 @@
 <img src="https://dl.dropbox.com/s/2r73s0t8rpeeisb/logo-lg.png" align="right" />
+
 # README v0.0.1
 > A nopache (apache-free) pure nodejs server solution for [Impactjs](http://impactjs.com) complete with weltmeister support. Part of the F L A R E development suite.
 
 # Features
+- **NEW** BoomSheets sprite mapping and management tool
+<img src="https://www.dropbox.com/s/zo1pbox3sjfhvq2/info.png" align="right" />\
 - Easy installation
 - 100% nodejs
 - Scripts watch for any changes in project and relaunch server immediately
@@ -23,6 +26,7 @@
 
 ## Follow
 - [First announcement](http://impactjs.com/forums/code/f-l-a-r-e-development-suite-for-impact/page/1)  for public use. Includes node weltmeister only.
+- [First release of BoomSheets](http://impactjs.com/forums/code/boomsheets-sprite-mapping-tool-for-impactjs) Includes Mac and Linux 64 binaries. 
 
 ## Contribute
 Contributions are always welcome! Discovered a bug? Have an idea? File a [new issue](https://github.com/TheMaverickProgrammer/flare-impact/issues) on github.
