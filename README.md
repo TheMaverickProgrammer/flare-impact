@@ -34,11 +34,6 @@ updated 11/18/2017
 ## Contribute
 Contributions are always welcome! Discovered a bug? Have an idea? File a [new issue](https://github.com/TheMaverickProgrammer/flare-impact/issues) on github.
 
-## Donations
-This project and the rest of the F L A R E development suite is developed by one person to expand on the Impactjs engine to bring an advanced game development pipeline to the Impact community.
-
-If you found this project useful, kindly donate to my bitcoin address: ```16Nvuh4zjD4kmdnLtR12jkK3NkYReJJB1G```
-
 ## License
 
 ![MIT](https://dl.dropbox.com/s/dmnb84n9s6sn55e/mit.png)
